@@ -1,0 +1,346 @@
+﻿  Compiling CUDA source file CUDA_Define.cuh...
+  
+  C:\Users\k9996\Desktop\Git\SoftRenderer\Engine>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX64\x64" -x cu   -IC:\Users\k9996\Desktop\Renderer\HMRenderer\Math\Public -IC:\Users\k9996\Desktop\Renderer\HMRenderer\Engine -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include"  -G   --keep-dir x64\Debug  -maxrregcount=0   --machine 64 --compile -cudart static  -g  -D_DEBUG -D_CONSOLE -D_UNICODE -DUNICODE -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/Fdx64\Debug\vc143.pdb" -o C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\x64\Debug\CUDA_Define.cuh.obj "C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh" 
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.h(1): warning C4828: 파일에 0x3f5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda.h(854): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda.h(7525): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda.h(16423): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda.h(19378): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda.h(22256): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda.h(22946): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Math\Public\Matrix4x4.h(72): warning #815-D: type qualifier on return type is meaningless
+    		__forceinline const float operator[](const BYTE idx) const
+    		              ^
+  
+  Remark: The warnings can be suppressed with "-diag-suppress <warning-number>"
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Texture.h(25): warning #815-D: type qualifier on return type is meaningless
+    		const int GetWidth() const { return _Width; }
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Texture.h(26): warning #815-D: type qualifier on return type is meaningless
+    		const int GetHeight() const { return _Height; }
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Texture.h(27): warning #815-D: type qualifier on return type is meaningless
+    		const int GetSize() const { return _Width * _Height; }
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Mesh.h(21): warning #815-D: type qualifier on return type is meaningless
+    		const int IndexCount() { return _msize(Indices) / sizeof(int); }
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Mesh.h(22): warning #815-D: type qualifier on return type is meaningless
+    		const int VertexCount() { return _msize(Vertices) / sizeof(Vector3); }
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\GameObject.h(41): warning #815-D: type qualifier on return type is meaningless
+    		const bool isVisible() const {	return _Active;}
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Engine.h(66): warning #815-D: type qualifier on return type is meaningless
+    		const int GetMeshIdx(const std::size_t& meshKey) const
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Engine.h(81): warning #815-D: type qualifier on return type is meaningless
+    		const int GetTextureKey (const std::size_t& textureKey) const
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Engine.h(122): warning #815-D: type qualifier on return type is meaningless
+    		const int GetObjCount() const
+    		^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(9): warning #20012-D: __device__ annotation is ignored on a function("d_ScreenPoint") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_ScreenPoint() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(16): warning #20012-D: __device__ annotation is ignored on a function("d_Vector2") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_Vector2() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(36): warning #20012-D: __device__ annotation is ignored on a function("d_Vector3") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_Vector3() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(64): warning #20012-D: __device__ annotation is ignored on a function("d_Vector4") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_Vector4() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(84): warning #20012-D: __device__ annotation is ignored on a function("d_Matrix4x4") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_Matrix4x4() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(101): warning #20012-D: __device__ annotation is ignored on a function("d_LinearColor") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_LinearColor() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(109): warning #20012-D: __device__ annotation is ignored on a function("d_Vertex") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_Vertex() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(118): warning #20012-D: __device__ annotation is ignored on a function("d_Vt2Idx") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_Vt2Idx() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(126): warning #20012-D: __device__ annotation is ignored on a function("d_Color32") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_Color32() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(141): warning #20012-D: __device__ annotation is ignored on a function("d_RenderState") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_RenderState() = default;
+    	           ^
+  
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda_runtime_api.h(11730): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\SoftRenderer.h(1): warning C4828: 파일에 0x3f5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda.h(854): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda.h(7525): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda.h(16423): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda.h(19378): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda.h(22256): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\cuda.h(22946): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Math\Public\Matrix4x4.h(72): warning #815-D: type qualifier on return type is meaningless
+    		__forceinline const float operator[](const BYTE idx) const
+    		              ^
+  
+  Remark: The warnings can be suppressed with "-diag-suppress <warning-number>"
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Frustum.h(45): warning #177-D: variable "idx" was declared but never referenced
+    			int idx = 0;
+    			    ^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Texture.h(25): warning #815-D: type qualifier on return type is meaningless
+    		const int GetWidth() const { return _Width; }
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Texture.h(26): warning #815-D: type qualifier on return type is meaningless
+    		const int GetHeight() const { return _Height; }
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Texture.h(27): warning #815-D: type qualifier on return type is meaningless
+    		const int GetSize() const { return _Width * _Height; }
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Mesh.h(21): warning #815-D: type qualifier on return type is meaningless
+    		const int IndexCount() { return _msize(Indices) / sizeof(int); }
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Mesh.h(22): warning #815-D: type qualifier on return type is meaningless
+    		const int VertexCount() { return _msize(Vertices) / sizeof(Vector3); }
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\GameObject.h(41): warning #815-D: type qualifier on return type is meaningless
+    		const bool isVisible() const {	return _Active;}
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\GameObject.h(31): warning #177-D: variable "a" was declared but never referenced
+    			int a = 0;
+    			    ^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Engine.h(66): warning #815-D: type qualifier on return type is meaningless
+    		const int GetMeshIdx(const std::size_t& meshKey) const
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Engine.h(81): warning #815-D: type qualifier on return type is meaningless
+    		const int GetTextureKey (const std::size_t& textureKey) const
+    		^
+  
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Engine.h(122): warning #815-D: type qualifier on return type is meaningless
+    		const int GetObjCount() const
+    		^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(9): warning #20012-D: __device__ annotation is ignored on a function("d_ScreenPoint") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_ScreenPoint() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(16): warning #20012-D: __device__ annotation is ignored on a function("d_Vector2") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_Vector2() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(36): warning #20012-D: __device__ annotation is ignored on a function("d_Vector3") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_Vector3() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(64): warning #20012-D: __device__ annotation is ignored on a function("d_Vector4") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_Vector4() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(84): warning #20012-D: __device__ annotation is ignored on a function("d_Matrix4x4") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_Matrix4x4() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(101): warning #20012-D: __device__ annotation is ignored on a function("d_LinearColor") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_LinearColor() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(109): warning #20012-D: __device__ annotation is ignored on a function("d_Vertex") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_Vertex() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(118): warning #20012-D: __device__ annotation is ignored on a function("d_Vt2Idx") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_Vt2Idx() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(126): warning #20012-D: __device__ annotation is ignored on a function("d_Color32") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_Color32() = default;
+    	           ^
+  
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\CUDA_Define.cuh(141): warning #20012-D: __device__ annotation is ignored on a function("d_RenderState") that is explicitly defaulted on its first declaration
+    	__declspec(__device__) d_RenderState() = default;
+    	           ^
+  
+  CUDA_Define.cuh
+  tmpxft_00000af0_00000000-7_CUDA_Define.cudafe1.cpp
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.5\include\driver_types.h(1327): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\BVBox.h(11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\BVSphere.h(12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\BVSphere.h(19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Mesh.h(21): warning C4267: 'return': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Mesh.h(22): warning C4267: 'return': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Resource.h(5): warning C4068: 알 수 없는 pragma 'Mesh'
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Engine.h(37): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Engine.h(89): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Engine.h(116): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Renderer\HMRenderer\Engine\Engine.h(124): warning C4267: 'return': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Engine.cpp
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\BVBox.h(11,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\BVSphere.h(12,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\BVSphere.h(19,17): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Mesh.h(21,26): warning C4267: 'return': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Mesh.h(22,27): warning C4267: 'return': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Resource.h(5,9): warning C4068: 알 수 없는 pragma 'Mesh'
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\SoftRenderer.h(1,1): warning C4828: 파일에 0x3f5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Engine.h(37,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Engine.h(89,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Engine.h(116,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Engine.h(124,1): warning C4267: 'return': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Engine.cpp(233,18): warning C4244: '초기화 중': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Engine.cpp(237,19): warning C4244: '=': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  InputManager.cpp
+  SoftRenderer.cpp
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\BVBox.h(11,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\BVSphere.h(12,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\BVSphere.h(19,17): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Mesh.h(21,26): warning C4267: 'return': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Mesh.h(22,27): warning C4267: 'return': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Resource.h(5,9): warning C4068: 알 수 없는 pragma 'Mesh'
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\SoftRenderer.h(1,1): warning C4828: 파일에 0x3f5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Engine.h(37,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Engine.h(89,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Engine.h(116,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Engine.h(124,1): warning C4267: 'return': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\SoftRenderer.cpp(78,18): warning C4244: '초기화 중': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\SoftRenderer.cpp(82,19): warning C4244: '=': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\SoftRenderer.cpp(85,19): warning C4244: '=': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\SoftRenderer.cpp(106,25): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\SoftRenderer.cpp(112,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\SoftRenderer.cpp(112,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Texture.cpp
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Texture.cpp(12,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Texture.cpp(14,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ThreadPool.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(1578,77): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\thread(51,5): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::invoke<void(__cdecl HM::ThreadPool::* )(int),HM::ThreadPool*,unsigned __int64>(_Callable &&,_Ty1 &&,unsigned __int64 &&) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Callable=void (__cdecl HM::ThreadPool::* )(int),
+              _Ty1=HM::ThreadPool *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\thread(61,5): message : 컴파일되는 함수 템플릿 인스턴스화 'unsigned int std::thread::_Invoke<_Tuple,0,1,2>(void *) noexcept'에 대한 참조를 확인하세요.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\thread(66,13): message : 컴파일되는 함수 템플릿 인스턴스화 'unsigned int (__cdecl *std::thread::_Get_invoke<_Tuple,0,1,2>(std::integer_sequence<size_t,0,1,2>) noexcept)(void *)'에 대한 참조를 확인하세요.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\thread(89,5): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::thread::_Start<_Ty,HM::ThreadPool*,size_t&>(_Fn &&,HM::ThreadPool *&&,size_t &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=void (__cdecl HM::ThreadPool::* )(int),
+              _Fn=void (__cdecl HM::ThreadPool::* )(int)
+          ]
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\ThreadPool.cpp(10,55): message : 컴파일되는 함수 템플릿 인스턴스화 'std::thread::thread<void(__cdecl HM::ThreadPool::* )(int),HM::ThreadPool*,size_t&,0>(_Fn &&,HM::ThreadPool *&&,size_t &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Fn=void (__cdecl HM::ThreadPool::* )(int)
+          ]
+  TimeUtil.cpp
+  WinAdapter.cpp
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\BVBox.h(11,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\BVSphere.h(12,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\BVSphere.h(19,17): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Mesh.h(21,26): warning C4267: 'return': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Mesh.h(22,27): warning C4267: 'return': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Resource.h(5,9): warning C4068: 알 수 없는 pragma 'Mesh'
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\SoftRenderer.h(1,1): warning C4828: 파일에 0x3f5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Engine.h(37,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Engine.h(89,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Engine.h(116,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\Engine.h(124,1): warning C4267: 'return': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k9996\Desktop\Git\SoftRenderer\Engine\WinAdapter.cpp(111,12): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\k9996\Desktop\Git\SoftRenderer\x64\Debug\Engine.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  Engine.vcxproj -> C:\Users\k9996\Desktop\Git\SoftRenderer\x64\Debug\Engine.exe
